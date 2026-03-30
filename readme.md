@@ -37,7 +37,7 @@
 - **Absatz 4:** VPNs, Proxys oder ähnliche Methoden zur Identitätsverschleierung sind verboten, es sei denn, es wurde vorher eine Absprache getroffen.
 - **Absatz 5:** Drohungen, egal ob sie an ein Teammitglied oder einen User gerichtet sind, werden schwer bestraft.
 - **Absatz 6:** Jegliche Art von Werbung zum eigenen Zweck ist verboten. Eine Absprache ist in diesem Fall möglich.
-- **Absatz 7:** Private Daten dürfen nicht öffentlich ausgetauscht werden. Ein Teammitglied von OPSUCHT.NET wird dich niemals nach vertraulichen Daten wie Passwörtern fragen.
+- **Absatz 7:** Private Daten dürfen nicht öffentlich ausgetauscht werden. Ein Teammitglied von BlockBucht.de wird dich niemals nach vertraulichen Daten wie Passwörtern fragen.
 - **Absatz 8:** Jegliche Art von Handel mit Echtgeld ist verboten. Ränge, Kristalle und weiteres sind nur im offiziellen Shop erhältlich.
 - **Absatz 9:** Jegliche Angriffe gegen das Netzwerk werden zur Strafanzeige gebracht.
 - **Absatz 10:** Das Provozieren anderer ist zu unterlassen.
