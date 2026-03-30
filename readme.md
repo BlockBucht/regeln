@@ -27,13 +27,13 @@
 - **Absatz 1:** Missverständnisse und Streitigkeiten unter Spielern sind privat zu behandeln und sollen nicht auf unserem Netzwerk ausgetragen werden.
 - **Absatz 2:** Hatespeech ist auf diesem Server absolut verboten und wird mit einem permanenten Serverausschluss geahndet.
 - **Absatz 3:** Vorbehalte der Teammitglieder
-    - **Absatz 3.1:** Jedes Teammitglied von OPSUCHT.NET hat volles Weisungsrecht. Wer sich Anweisungen von Teammitgliedern widersetzt, muss mit einem temporären Ausschluss vom Netzwerk-Bereich rechnen.
+    - **Absatz 3.1:** Jedes Teammitglied von BlockBucht.de hat volles Weisungsrecht. Wer sich Anweisungen von Teammitgliedern widersetzt, muss mit einem temporären Ausschluss vom Netzwerk-Bereich rechnen.
     - **Absatz 3.2:** Jedes Teammitglied hat das Recht, im Verdachtsfall eines Regelbruches Sanktionen auszuüben.
     - **Absatz 3.3:** Teammitglieder müssen sich lediglich vor einem höherrangigen Teammitglied zu einer Handlung äußern.
     - **Absatz 3.4:** Teammitglieder sind nur gegenüber der Bereichsleitung in der Beweispflicht.
     - **Absatz 3.5:** Nutzer dürfen sich im Ausnahmefall in Absprache mit einem Administrator über die Regeln hinwegsetzen.
     - **Absatz 3.6:** Niemand wird einfach vom Netzwerk gekickt oder gebannt. Jedes Teammitglied hat die Berechtigung, Nutzer vom Netzwerk zu kicken oder zu bannen, wenn sie darin eine Notwendigkeit sehen.
-    - **Absatz 3.7:** Jedes Teammitglied des OPSUCHT.NET Netzwerkes ist befugt, jederzeit von seinen Rechten Gebrauch zu machen und User mit diesen zu kontrollieren.
+    - **Absatz 3.7:** Jedes Teammitglied des BlockBucht.de Netzwerkes ist befugt, jederzeit von seinen Rechten Gebrauch zu machen und User mit diesen zu kontrollieren.
 - **Absatz 4:** VPNs, Proxys oder ähnliche Methoden zur Identitätsverschleierung sind verboten, es sei denn, es wurde vorher eine Absprache getroffen.
 - **Absatz 5:** Drohungen, egal ob sie an ein Teammitglied oder einen User gerichtet sind, werden schwer bestraft.
 - **Absatz 6:** Jegliche Art von Werbung zum eigenen Zweck ist verboten. Eine Absprache ist in diesem Fall möglich.
