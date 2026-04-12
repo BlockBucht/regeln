@@ -5,7 +5,7 @@
 ### § 1.1 Begriffsdefinitionen
 - **Absatz 1:** "Netzwerk" umfasst das Minecraft-Netzwerk und den Discord-Server von BlockBucht.de.
 - **Absatz 2:** "Wir" steht für das aktuelle Team von BlockBucht.de.
-- **Absatz §.** "Du", "Spieler" und "User" sind alle Nutzer unseres Netzwerkes.
+- **Absatz 3.** "Du", "Spieler" und "User" sind alle Nutzer unseres Netzwerkes.
 
 ### § 1.2 Gültigkeit des Regelwerks
 - **Absatz 1:** Die Administation behält sich das Recht vor, das Regelwerk jederzeit zu ändern, Änderungen sind ab dem Zeitpunkt der Änderung gültig.
