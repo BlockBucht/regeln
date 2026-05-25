@@ -48,7 +48,7 @@
 ## § 2 Rechte
 
 - **Absatz 1:** Das Betteln um Serverrechte ist nicht gestattet und kann sanktioniert werden.
-- **Absatz 2:** Niemand wird einfach in das OPSUCHT.NET Team aufgenommen. Jedes Teammitglied wird von der Team- und Supportleitung ausgewählt und durchläuft einen Bewerbungsprozess.
+- **Absatz 2:** Niemand wird einfach in das BlockBucht.de Team aufgenommen. Jedes Teammitglied wird von der Team- und Supportleitung ausgewählt und durchläuft einen Bewerbungsprozess.
 - **Absatz 3:** Ränge wie "Premium" sind nur bei den Administratoren, den Inhabern oder im offiziellen Shop erhältlich. Das Vortäuschen eines Rangkaufs fällt unter Betrug und wird zur Anzeige gebracht.
 
 ## § 3 Besondere Regelungen für TeamSpeak & Discord
